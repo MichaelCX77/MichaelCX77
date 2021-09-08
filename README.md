@@ -1,6 +1,6 @@
 ## Olá! Bem-vido ao perfil de Michael Cardoso!
 <br/>
-<li>🔭 Atualmente estou trabalhando com Sustentação de sistemas Java a Nível Full Stack</li>
+<li>🔭 Atualmente estou trabalhando com Sustentação de sistemas baseados em Java a Nível Full Stack</li>
 <li>🌱 Estudando Junit, Microservices, Docker e Frameworks Javascript</li>
 <li>📫 Entre em contato comigo através do e-mail: maycow_77@hotmail.com</li>
 
