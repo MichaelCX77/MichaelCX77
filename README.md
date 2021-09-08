@@ -13,8 +13,8 @@
 ## <li>Estatísticas
 <div align="center"><br/>
   <a href="https://github.com/MichaelCX77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelCX77&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCX77&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MichaelCX77&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCX77&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
 </div>
 <br/>
   
