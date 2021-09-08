@@ -3,13 +3,22 @@
 <li>🔭 Atualmente estou trabalhando com Sustentação de sistemas Java a Nível Full Stack</li>
 <li>🌱 Estudando Junit, Microservices, Docker e Frameworks Javascript</li>
 <li>📫 Entre em contato comigo através do e-mail: maycow_77@hotmail.com</li>
-<br/><br/>
-<div align="center">
-  <a href="https://github.com/MichaelCX77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelCX77&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCX77&layout=compact&langs_count=7&theme=gotham"/>
+
+<div align="center"><br/>
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
- 
+
+## <li>Estatísticas
+<div align="center"><br/>
+  <a href="https://github.com/MichaelCX77">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelCX77&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCX77&layout=compact&langs_count=7&theme=gotham&locale=pt-br"/>
+</div>
+<br/>
+  
+##  <li>Conhecimentos
 <div align="center" style="display: inline_block"><br/>
   <div>
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -36,15 +45,13 @@
     <img align="center" alt="Apache" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg">
   </div>
 </div>
+<br/><br/>
 
-##
-  
-<div align="center">
+## <li>Contatos
+<div align="center"><br/>
   <a href = "mailto:maycow_77@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-cardoso-xavier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
   
     
