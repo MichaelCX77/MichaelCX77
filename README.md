@@ -2,7 +2,7 @@
 <br/>
 <li>🔭 Atualmente estou trabalhando com Sustentação de sistemas baseados em Java a Nível Full Stack</li>
 <li>🌱 Estudando Junit, Microservices, Docker e Frameworks Javascript</li>
-<li>📫 Entre em contato comigo através do e-mail: maycow_77@hotmail.com</li>
+<li>📫 Entre em contato comigo através do e-mail: <a href="mailto: maycow_77@hotmail.com">maycow_77@hotmail.com</a></li>
 
 <div align="center"><br/>
 
