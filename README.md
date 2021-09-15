@@ -4,7 +4,7 @@
 <li>🌱 Estudando Junit, Microservices, Docker e Frameworks Javascript</li>
 <li>📫 Entre em contato comigo através do e-mail: <a href="mailto: maycow_77@hotmail.com">maycow_77@hotmail.com</a></li>
 <br/>
-<i>Os sistemas destacados no meu perfil tiveram upload recente no Github, já que eu fazia crontrole de versão no repositório do Heroku</i> 
+<i>Os sistemas destacados no meu perfil tiveram upload recente no Github, já que o controle de versão estava sendo feito no repositório do Heroku</i> 
 
 <div align="center"><br/>
 
