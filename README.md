@@ -5,7 +5,6 @@
 <li> Ultimamente ando criando games usando C# e Unity</li>
 <li>📫 Entre em contato comigo através do e-mail: <a href="mailto: maycow_77@hotmail.com">maycow_77@hotmail.com</a></li>
 <br/>
-<i>Os sistemas destacados no meu perfil tiveram upload recente no Github, já que o controle de versão estava sendo efetuado em repositório privado do Heroku</i> 
 
 <div align="center"><br/>
 
