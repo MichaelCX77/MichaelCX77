@@ -1,7 +1,7 @@
 ## Olá! Bem-vido ao perfil de Michael Cardoso!
 <br/>
 <li>🔭 Atualmente estou trabalhando como Engenheiro de Software em um projeto de migração de sistemas para AWS</li>
-<li>🌱 Estudando e exercendo AWS, DevSecOps, Microservices, Docker e Frameworks Javascript</li>
+<li>🌱 Estudando para certificações AWS, Kubenetes</li>
 <li> Ultimamente ando criando games usando C# e Unity</li>
 <li>📫 Entre em contato comigo através do e-mail: <a href="mailto: maycow_77@hotmail.com">maycow_77@hotmail.com</a></li>
 <br/>
