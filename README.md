@@ -6,12 +6,6 @@
 <li>📫 Entre em contato comigo através do e-mail: <a href="mailto: maycow_77@hotmail.com">maycow_77@hotmail.com</a></li>
 <br/>
 
-<div align="center"><br/>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
 ## <li>Estatísticas
 <div align="center"><br/>
   <a href="https://github.com/MichaelCX77">
